@@ -1,1 +1,3 @@
-# Python-Min-Project
+# Python Min Project
+
+This project primarily serves to gather various small projects that I have accumulated during my daily study of Python.
