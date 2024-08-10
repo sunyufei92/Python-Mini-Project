@@ -12,6 +12,10 @@ The script is structured as follows:
 The turtle module is utilized to create graphics in a window, and the flag is drawn step by step. 
 After running the script, a graphical window will open displaying the complete flag. 
 The drawing speed is set to a relatively fast pace, but it can be adjusted if needed.
+
+Version: 0.1
+Author: Sun Yufei
+Date: 2024-08-10
 """
 
 
